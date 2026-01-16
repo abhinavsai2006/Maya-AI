@@ -109,20 +109,70 @@ Maya-ai/
 - Define application constants
 - Centralize configuration for all modules
 
-## Development Phases
+## 🧭 Development Phases
 
-### Completed
-- **Phase 1**: Foundation - Core architecture and setup
-- **Phase 2**: Speech Recognition - Voice input and basic commands
+### ✅ Completed
 
-### In Progress / Planned
-- **Phase 3**: Natural Language Processing
-- **Phase 4**: Speech Synthesis
-- **Phase 5**: Advanced Conversation Features
-- **Phase 6**: Smart Features (Calendar, Tasks, etc.)
-- **Phase 7**: External Integration (APIs)
-- **Phase 8**: Machine Learning Enhancement
-- **Phase 9**: Optimization & Deployment
+- **Phase 1: Core Voice Foundation**
+  - Microphone input (speech-to-text)
+  - Speaker output (text-to-speech)
+  - Continuous listening loop
+
+- **Phase 1.5: Interruptible Speech**
+  - Microphone remains active while Maya is speaking
+  - User can interrupt Maya using voice commands like "stop"
+  - Immediate speech cancellation (human-like behavior)
+
+- **Phase 1.6: Performance Optimization**
+  - One-time microphone calibration
+  - Reduced response latency
+  - Faster and more natural interaction
+
+---
+
+### 🚧 In Progress / Planned
+
+- **Phase 2: AI Intelligence (Brain)**
+  - Integration of multiple AI providers (Groq, Gemini, OpenRouter)
+  - Intelligent answers across all domains
+  - Automatic fallback if one AI fails
+
+- **Phase 3: Emotion & Personality**
+  - Emotion-aware responses
+  - Natural reactions to interruption
+  - Time-based behavior (tired, caring, annoyed, friendly)
+
+- **Phase 4: Memory System**
+  - Short-term conversational memory
+  - Long-term memory (name, habits, people)
+  - Context-aware recall
+
+- **Phase 5: System Control & Automation**
+  - Open/close applications
+  - Reduce screen time
+  - Browser and media control
+  - Safety confirmations
+
+- **Phase 6: Messaging & Communication**
+  - WhatsApp and messaging automation
+  - Message typing
+  - Read-before-send confirmation
+
+- **Phase 7: Vision & Context Awareness**
+  - Camera-based face detection
+  - Emotion recognition
+  - Object detection (e.g., tools, electronics)
+  - Proactive questions ("What are you building?")
+
+- **Phase 8: Offline Speed Upgrade**
+  - Offline speech recognition (Vosk / Whisper.cpp)
+  - Ultra-low latency responses
+
+- **Phase 9: Desktop App Deployment**
+  - Background system service
+  - System tray application
+  - Auto-start on boot
+  - No VS Code dependency
 
 ## Key Design Principles
 
@@ -149,4 +199,4 @@ To contribute:
 ---
 
 **Last Updated**: January 16, 2026  
-**Current Version**: 0.2 (Phase 2 Complete)
+**Current Version**: 0.3 (Phase 1.6 Complete)

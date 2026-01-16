@@ -9,57 +9,70 @@ Maya AI is a sophisticated voice-based personal AI assistant built from scratch 
 - **Performance Optimization**: Fast response times for enhanced user experience
 - **Modular Architecture**: Phase-based development approach for scalable feature expansion
 
-## Current Completed Phases
+## 🧭 Development Phases
 
-- **Phase 1**: Foundation and core architecture setup
-- **Phase 2**: Speech recognition and basic voice interaction
+### ✅ Completed
 
-## Complete Development Roadmap
+- **Phase 1: Core Voice Foundation**
+  - Microphone input (speech-to-text)
+  - Speaker output (text-to-speech)
+  - Continuous listening loop
 
-### Phase 1: Foundation
-- Core architecture and project structure
-- Development environment setup
-- Basic Python framework initialization
+- **Phase 1.5: Interruptible Speech**
+  - Microphone remains active while Maya is speaking
+  - User can interrupt Maya using voice commands like "stop"
+  - Immediate speech cancellation (human-like behavior)
 
-### Phase 2: Speech Recognition
-- Implement speech-to-text functionality
-- Audio input handling and processing
-- Basic voice command recognition
+- **Phase 1.6: Performance Optimization**
+  - One-time microphone calibration
+  - Reduced response latency
+  - Faster and more natural interaction
 
-### Phase 3: Natural Language Processing
-- Intent recognition and entity extraction
-- Context-aware response generation
-- Multi-turn conversation support
+---
 
-### Phase 4: Speech Synthesis
-- Text-to-speech integration
-- Natural-sounding voice output
-- Audio playback optimization
+### 🚧 In Progress / Planned
 
-### Phase 5: Advanced Conversation
-- Personality and tone customization
-- Memory and context retention
-- Sophisticated dialogue management
+- **Phase 2: AI Intelligence (Brain)**
+  - Integration of multiple AI providers (Groq, Gemini, OpenRouter)
+  - Intelligent answers across all domains
+  - Automatic fallback if one AI fails
 
-### Phase 6: Smart Features
-- Calendar and scheduling integration
-- Task management capabilities
-- Notification system
+- **Phase 3: Emotion & Personality**
+  - Emotion-aware responses
+  - Natural reactions to interruption
+  - Time-based behavior (tired, caring, annoyed, friendly)
 
-### Phase 7: External Integration
-- Weather and news API integration
-- Music and media control
-- Third-party service connectivity
+- **Phase 4: Memory System**
+  - Short-term conversational memory
+  - Long-term memory (name, habits, people)
+  - Context-aware recall
 
-### Phase 8: Machine Learning Enhancement
-- User preference learning
-- Personalized response adaptation
-- Behavioral pattern recognition
+- **Phase 5: System Control & Automation**
+  - Open/close applications
+  - Reduce screen time
+  - Browser and media control
+  - Safety confirmations
 
-### Phase 9: Optimization & Deployment
-- Performance tuning and benchmarking
-- Cross-platform compatibility
-- Production-ready deployment package
+- **Phase 6: Messaging & Communication**
+  - WhatsApp and messaging automation
+  - Message typing
+  - Read-before-send confirmation
+
+- **Phase 7: Vision & Context Awareness**
+  - Camera-based face detection
+  - Emotion recognition
+  - Object detection (e.g., tools, electronics)
+  - Proactive questions ("What are you building?")
+
+- **Phase 8: Offline Speed Upgrade**
+  - Offline speech recognition (Vosk / Whisper.cpp)
+  - Ultra-low latency responses
+
+- **Phase 9: Desktop App Deployment**
+  - Background system service
+  - System tray application
+  - Auto-start on boot
+  - No VS Code dependency
 
 ## How to Run the Project
 
@@ -119,7 +132,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ### Development Priorities
 Current focus areas for contributions:
-- Phase 3: Natural Language Processing enhancements
+- Phase 2: AI Intelligence integration
 - Bug fixes and performance improvements
 - Documentation updates
 
@@ -133,4 +146,4 @@ For questions, suggestions, or support, please open an issue on the GitHub repos
 
 ---
 
-**Status**: Active Development | **Version**: 0.2 (Phase 2 Complete)
+**Status**: Active Development | **Version**: 0.3 (Phase 1.6 Complete)
