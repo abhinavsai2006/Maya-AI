@@ -1,0 +1,105 @@
+{
+  "short_term": [
+    {
+      "timestamp": "2026-01-18T01:48:48.350166",
+      "user": "open youtube",
+      "maya": "Tried to open youtube (no mapping found)"
+    },
+    {
+      "timestamp": "2026-01-18T01:48:59.181180",
+      "user": "open cmd",
+      "maya": "Tried to open cmd (no mapping found)"
+    },
+    {
+      "timestamp": "2026-01-18T01:49:46.730215",
+      "user": "hui",
+      "maya": "Oh, I understand you'"
+    },
+    {
+      "timestamp": "2026-01-18T01:49:55.968076",
+      "user": "open youtube",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:50:03.439796",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:50:07.433107",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:50:25.390213",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:51:23.459798",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:52:20.905042",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:52:25.710059",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:57:07.934015",
+      "user": "hi",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:57:16.495623",
+      "user": "2+2",
+      "maya": "Sorry, I am unable to think right now. Please check my API keys."
+    },
+    {
+      "timestamp": "2026-01-18T01:58:18.897980",
+      "user": "hu",
+      "maya": "I'm running in limited mode. For AI responses, set GEMINI_API_KEY or install Ollama for offline AI."
+    },
+    {
+      "timestamp": "2026-01-18T01:58:38.529451",
+      "user": "open youtube",
+      "maya": "I'm running in limited mode. For AI responses, set GEMINI_API_KEY or install Ollama for offline AI."
+    },
+    {
+      "timestamp": "2026-01-18T01:59:52.211357",
+      "user": "hi",
+      "maya": "I'm running in limited mode. For AI responses, set GEMINI_API_KEY or install Ollama for offline AI."
+    },
+    {
+      "timestamp": "2026-01-18T02:00:12.350599",
+      "user": "hi",
+      "maya": "[DEV MODE] Mock response to: Recent conversation:\nUser: hu\nMaya: I'm running in..."
+    },
+    {
+      "timestamp": "2026-01-18T02:00:20.609465",
+      "user": "open youtube",
+      "maya": "[DEV MODE] Mock response to: Recent conversation:\nUser: open youtube\nMaya: I'm ..."
+    },
+    {
+      "timestamp": "2026-01-18T02:00:29.182854",
+      "user": "jhghghh",
+      "maya": "[DEV MODE] Mock response to: Recent conversation:\nUser: hi\nMaya: I'm running in..."
+    },
+    {
+      "timestamp": "2026-01-18T02:04:19.590096",
+      "user": "$env:gemini_api_key=\"aizasydwufctdiobqjvjajvyc4mjwfr6x5fhliq\"",
+      "maya": "[DEV MODE] Mock response to: Recent conversation:\nUser: hi\nMaya: [DEV MODE] Moc..."
+    },
+    {
+      "timestamp": "2026-01-18T02:04:20.620165",
+      "user": ".\\start_maya.bat",
+      "maya": "[DEV MODE] Mock response to: Recent conversation:\nUser: open youtube\nMaya: [DEV..."
+    }
+  ],
+  "long_term": {}
+}
